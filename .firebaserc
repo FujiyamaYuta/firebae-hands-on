@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "default": "friendlyeats-vue",
+    "eats": "friendlyeats-vue"
+  }
+}
