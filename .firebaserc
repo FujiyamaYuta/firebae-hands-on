@@ -1,6 +1,7 @@
 {
   "projects": {
-    "default": "friendlyeats-vue",
-    "eats": "friendlyeats-vue"
+    "eats": "friendly-eats-vue",
+    "defalt": "friendly-eats-vue",
+    "default": "friendly-eats-vue"
   }
 }
